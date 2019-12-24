@@ -18,5 +18,13 @@ Implementation of DateTime to display today's date!
 
 Swipe left every time to change to a screen with awesome dynamic background images of world-class athletes and randomized quotes that will certainly motivate you throughout the day and as you finish your challenges.
 
+<img width="372" alt="GUI" src="https://user-images.githubusercontent.com/54069717/71405695-2d4d8080-2604-11ea-81a0-c048f319deba.png">
+
+<img width="139" alt="Loading" src="https://user-images.githubusercontent.com/54069717/71405696-2d4d8080-2604-11ea-8b60-9ab1a5c7401e.png">
+
+<img width="371" alt="Quotes" src="https://user-images.githubusercontent.com/54069717/71405697-2d4d8080-2604-11ea-9534-f21d3872ee76.png">
+
+<img width="371" alt="TypingGoals" src="https://user-images.githubusercontent.com/54069717/71405698-2d4d8080-2604-11ea-849f-6b8a7467c490.png">
+
 ### Comments
 This project, although it is not the most sophisticated app ever created, helped me open my eyes to the user-friendliness of XCode's interface and become well familiar with Swift, which was not too difficult because it is so similar to Java and Python. I spent 2 days without sleeping building, experimenting, and debugging this application, and although it was quite time-consuming, I thoroughly enjoyed this experience not just because of how much I got out of it academically but also because I learned about how simple it is to access really cool data and properties such as the HealthKit library and all the drag-and-drop GUIs'. When I get time, I am looking forward to creating many more apps and learning even more about the potentials of Swift.
